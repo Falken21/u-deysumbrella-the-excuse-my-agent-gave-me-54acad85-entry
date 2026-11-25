@@ -11,6 +11,6 @@ newline.
 
 ## Badges
 
-![Competition](https://make.fun/badge/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85.svg)
-![Rank](https://make.fun/badge/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85/Falken21/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85-entry/rank.svg)
-![Reward](https://make.fun/badge/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85/Falken21/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85-entry/reward.svg)
+[![Competition](https://make.fun/badge/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85.svg)](https://make.fun/bounty/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85)
+[![Rank](https://make.fun/badge/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85/Falken21/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85-entry/rank.svg)](https://make.fun/bounty/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85)
+[![Reward](https://make.fun/badge/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85/Falken21/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85-entry/reward.svg)](https://make.fun/bounty/u-deysumbrella-the-excuse-my-agent-gave-me-54acad85)
